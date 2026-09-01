@@ -45,8 +45,7 @@ Total Quantity  37,873
 - Standard Class is the most widely used shipping mode.
 
 ##  Dashboard Preview
-
-![Sales Analysis Dashboard](Sales Analysis Dashboard.png)
+![Sales Analysis Dashboard](Sales_Analysis_Dashboard.png)
 
 ##  Dataset
 
