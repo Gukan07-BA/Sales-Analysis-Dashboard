@@ -46,7 +46,7 @@ Total Quantity  37,873
 
 ##  Dashboard Preview
 
-![Sales Analysis Dashboard](Sales_Analysis_Dashboard.png)
+![Sales Analysis Dashboard](Sales Analysis Dashboard.png)
 
 ##  Dataset
 
