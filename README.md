@@ -30,11 +30,12 @@ to Pivot Tables, Pivot Charts, and dashboard creation.
 
 ##  Key KPIs
 
- KPI            Value 
-Total Sales     $2,297,201 
-Total Profit    $286,397 
-Profit Margin   12% 
-Total Quantity  37,873 
+| KPI | Value |
+|---|---:|
+| Total Sales | $2,297,201 |
+| Total Profit | $286,397 |
+| Profit Margin | 12% |
+| Total Quantity | 37,873 |
 
 ## Key Insights
 
